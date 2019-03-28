@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Software Engineer working on TensorFlow in Google Brain.
+I am a Software Engineer working on TensorFlow in Google Brain. I enjoy biking and painting in my spare time.
 
 
-In the past, I have received a B.Sc in Computer Science from University of Toronto and currently working on a M.S. degree in AI at Stanford.
-
-I enjoy biking and painting.
+I have a B.Sc degree in Computer Science from University of Toronto and currently working on a M.S. degree in AI at Stanford.
